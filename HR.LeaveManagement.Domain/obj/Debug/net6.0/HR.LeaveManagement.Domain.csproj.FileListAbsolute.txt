@@ -1,0 +1,12 @@
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.deps.json
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net6.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.AssemblyInfo.cs
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\ref\HR.LeaveManagement.Domain.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Domain\obj\Debug\net6.0\HR.LeaveManagement.Domain.pdb

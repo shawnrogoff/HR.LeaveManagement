@@ -1,0 +1,15 @@
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.AssemblyReference.cache
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.AssemblyInfoInputs.cache
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.AssemblyInfo.cs
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.deps.json
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net6.0\ref\HR.LeaveManagement.Application.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Application.pdb
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Domain.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\bin\Debug\net6.0\HR.LeaveManagement.Domain.pdb
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.csproj.CopyComplete
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\ref\HR.LeaveManagement.Application.dll
+C:\Users\Rogofsd\Documents\GitHub\HR.LeaveManagement\HR.LeaveManagement.Application\obj\Debug\net6.0\HR.LeaveManagement.Application.pdb

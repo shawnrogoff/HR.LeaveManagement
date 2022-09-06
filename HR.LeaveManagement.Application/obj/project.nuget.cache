@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "hE3Pxc46QJpmYR63Q7GjG2a6xXzYBo2an9+Dg6J8ClAXY9ta7Sp3SdNh8iS2OSfgXl39C9oqJnsklGYZbhTmHQ==",
+  "dgSpecHash": "t265w+CJrOIxScMYOJ9II0+HmPstgLDAnRSk5pURKG8EA5ncLedmJY8N1eMFGSsGjqJCv3ICONgcnBH5w+aBug==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rogofsd\\Documents\\GitHub\\HR.LeaveManagement\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rogofsd\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Rogofsd\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Rogofsd\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\Rogofsd\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Rogofsd\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
     "C:\\Users\\Rogofsd\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rogofsd\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Rogofsd\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
