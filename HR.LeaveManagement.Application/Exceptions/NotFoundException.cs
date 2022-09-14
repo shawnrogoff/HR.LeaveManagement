@@ -5,6 +5,10 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace HR.LeaveManagement.Application.Exceptions;
-public class NotFoundException
+public class NotFoundException : ApplicationException
 {
+    public NotFoundException(string name, object key) : base($"{name} ({key}) was not found")
+    {
+
+    }
 }
