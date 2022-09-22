@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5691b7e0-1f80-4f41-b26d-e018a77f1e28": {
+      "ProjectGuid": "5691b7e0-1f80-4f41-b26d-e018a77f1e28",
+      "DisplayName": "HR.LeaveManagement.Domain",
+      "ColorIndex": 0
+    },
+    "4e48cea3-5c6d-4980-9861-b633e762fc5f": {
+      "ProjectGuid": "4e48cea3-5c6d-4980-9861-b633e762fc5f",
+      "DisplayName": "HR.LeaveManagement.Application",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "33b970c7-58a7-42cc-b8e2-898a94185c41": {
+      "ProjectGuid": "33b970c7-58a7-42cc-b8e2-898a94185c41",
+      "DisplayName": "HR.LeaveManagement.Infrastructure",
+      "ColorIndex": 2
+    },
+    "ffe33ded-6563-4531-8f4a-d9b0c464b4f8": {
+      "ProjectGuid": "ffe33ded-6563-4531-8f4a-d9b0c464b4f8",
+      "DisplayName": "HR.LeaveManagement.Persistence",
+      "ColorIndex": 3
+    },
+    "814d8e5a-abe9-44c8-bf4e-40fe4927b078": {
+      "ProjectGuid": "814d8e5a-abe9-44c8-bf4e-40fe4927b078",
+      "DisplayName": "Mail",
+      "ColorIndex": 4
+    },
+    "be21da9d-b36b-4c02-ad3a-a61e9531f5fd": {
+      "ProjectGuid": "be21da9d-b36b-4c02-ad3a-a61e9531f5fd",
+      "DisplayName": "HR.LeaveManagement.Api",
+      "ColorIndex": 5
+    },
+    "d9908b40-1335-473c-b5d8-8f2102e929f4": {
+      "ProjectGuid": "d9908b40-1335-473c-b5d8-8f2102e929f4",
+      "DisplayName": "HR.LeaveManagement.Application.UnitTests",
+      "ColorIndex": 6
+    },
+    "1f80f75e-5178-43c0-aaa1-b4cf87e5e10a": {
+      "ProjectGuid": "1f80f75e-5178-43c0-aaa1-b4cf87e5e10a",
+      "DisplayName": "HR.LeaveManagement.Application.UnitTests",
+      "ColorIndex": 7
+    },
+    "fce16132-2091-4b3b-a3bf-8dcf468f33ff": {
+      "ProjectGuid": "fce16132-2091-4b3b-a3bf-8dcf468f33ff",
+      "DisplayName": "HR.LeaveManagement.MVC",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
